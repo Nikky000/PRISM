@@ -31,7 +31,7 @@
 
 ### Prerequisites
 - Python 3.8 or higher
-- Docker (optional, for containerized deployment)
+- Celery 
 - Redis (for caching and message brokering)
 
 ## Steps
