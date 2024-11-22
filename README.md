@@ -38,7 +38,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/prism.git
+   git clone https://github.com/Nikky000/PRISM.git
    cd prism
 
 Configure Redis:
