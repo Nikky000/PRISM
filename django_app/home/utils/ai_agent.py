@@ -1,6 +1,6 @@
 from groq import Groq
 from .prompts import system_prompt
-key = "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"
+key = ""
 
 def analyze_code_with_llm(file_content,file_name):
     prompt = f"""   
