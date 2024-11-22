@@ -46,7 +46,7 @@ Configure Redis:
 Ensure Redis is running on your system and verify the connection settings in the settings.py file.
 Start the Celery worker:
 
-celery -A your_project_name worker --loglevel=info
+celery -A django_app worker --loglevel=info
 
 Run the servers:
 Django:
